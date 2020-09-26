@@ -1,9 +1,9 @@
 <h1 align="center">
-    Chat Comercial
+    Navegador Google Clone
 </h1>
 
 <h4 align="center">
-  Layout Chat Comercial tecnologias JavaScript, HTML, CSS, Firebase
+  Navegador Google Clone tecnologias JavaScript, HTML, CSS, Firebase
 </h4>
 
 <p align="center">
@@ -13,26 +13,24 @@
 </p>
 
 <h4 align="left">
+  Demotração do Projeto, acessar link abaixo.
+</h4 >
+<a href="https://dazzling-hamilton-497b5d.netlify.app/" target="_blank" >https://dazzling-hamilton-497b5d.netlify.app/</a>
+
+<h4 align="left">
   Demotração do layout desenvolvido.
 </h4>
 
-<a href="https://imgur.com/HiBQ3ar"><img src="https://i.imgur.com/HiBQ3ar.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/3Pxjpre"><img src="https://i.imgur.com/3Pxjpre.png" title="source: imgur.com" /></a>
-
-<h4 align="left">
-  Configuração com Banco de Dados Firebase.
-  Nos locais do "X" tem que colocar a sua configuração do seu banco de dados.
-</h4>
-<a href="https://imgur.com/RDp2oNk"><img src="https://i.imgur.com/RDp2oNk.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/AwWimt5"><img src="https://i.imgur.com/AwWimt5.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Vlpjhi7"><img src="https://i.imgur.com/Vlpjhi7.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido com meus estudos, com o propósito de aplicar no mercado um chat comercial para finalidade de comunicação dentro das empresa. Foi usado o Chakra UI na tela de login para criar um divisor entre o botão de Login com o Google e o botão de Entrar, Eu utizei as tecnologias logo abaixo:
+Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de aumentar meus conhecimentos com a tecnologia. Eu utizei as tecnologias logo abaixo:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
 -  [ReactJS](https://reactjs.org/)
--  [Chakra](https://chakra-ui.com/)
 -  [JavaScript](https://www.javascript.com/)
 -  [MDS web docs](https://developer.mozilla.org/pt-BR/)
 -  [Documentação](https://pt.wikipedia.org/wiki/JavaScript)
@@ -43,10 +41,10 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/chatcomercial
+$ git clone https://github.com/SilvaneiMartins/google-clone
 
 # Go into the repository
-$ cd chatcomercial
+$ cd google-clone
 
 # Install dependencies
 $ yarn
@@ -62,7 +60,7 @@ $ npm start
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/chatcomercial/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/google-clone/blob/master/LICENSE) for more information.
 
 ---
 
