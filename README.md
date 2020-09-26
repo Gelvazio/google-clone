@@ -15,7 +15,7 @@
 <h4 align="left">
   Demotração do Projeto, acessar link abaixo. <br>
 </h4 >
-  [link](https://dazzling-hamilton-497b5d.netlify.app/){:hreflang="de"}
+<a href="https://dazzling-hamilton-497b5d.netlify.app/" target="_blank" ></a>
 
 <h4 align="left">
   Demotração do layout desenvolvido.
