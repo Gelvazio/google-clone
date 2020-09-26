@@ -1,9 +1,9 @@
 <h1 align="center">
-    Chat Comercial
+    Navegador Google Clone
 </h1>
 
 <h4 align="center">
-  Layout Chat Comercial tecnologias JavaScript, HTML, CSS, Firebase
+  Navegador Google Clone tecnologias JavaScript, HTML, CSS, Firebase
 </h4>
 
 <p align="center">
@@ -16,14 +16,8 @@
   Demotração do layout desenvolvido.
 </h4>
 
-<a href="https://imgur.com/HiBQ3ar"><img src="https://i.imgur.com/HiBQ3ar.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/3Pxjpre"><img src="https://i.imgur.com/3Pxjpre.png" title="source: imgur.com" /></a>
-
-<h4 align="left">
-  Configuração com Banco de Dados Firebase.
-  Nos locais do "X" tem que colocar a sua configuração do seu banco de dados.
-</h4>
-<a href="https://imgur.com/RDp2oNk"><img src="https://i.imgur.com/RDp2oNk.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/AwWimt5"><img src="https://i.imgur.com/AwWimt5.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Vlpjhi7"><img src="https://i.imgur.com/Vlpjhi7.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
